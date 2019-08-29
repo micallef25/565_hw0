@@ -13,7 +13,11 @@ Project 0 Getting Started
 Include screenshots, analysis, etc. (Remember, this is public, so don't put
 anything here that you don't want to share with the world.)
 
-![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Part4.PNG "Part Submission")
-![](images/Micallef_Part5.png)
+## Part 4 Submission
+
+![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Part4.PNG)
+
+### Part 5 Submission
+![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Part5.PNG)
 ![](images/Micallef_Warp.png)
 ![](images/Micallef_Webgl.png)
