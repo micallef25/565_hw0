@@ -18,7 +18,7 @@ anything here that you don't want to share with the world.)
 
 ## P2.3 DXR
 
-Plan to use SIGLAB. Currently waiting on badge access into SIGLAB
+Could not get into SIGLAB, Plan to use SIGLAB. Currently waiting on badge access into SIGLAB
 
 ## P4 Submission
 
