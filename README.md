@@ -10,18 +10,23 @@ Project 0 Getting Started
 Include screenshots, analysis, etc. (Remember, this is public, so don't put
 anything here that you don't want to share with the world.)
 
-## Part 4 Submission
+
+## P2.2 Webgl
+
+![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_webgl.PNG)
+
+## P2.3 DXR
+
+Plan to use SIGLAB. Currently waiting on badge access into SIGLAB
+
+## P4 Submission
 
 ![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Part4.PNG)
 
-## Part 5 Submission
+## P5 Submission
 
 ![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Part5.PNG)
 
 ## Warping 
 
 ![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Warp.PNG)
-
-## Webgl
-
-![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_webgl.PNG)
