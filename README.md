@@ -20,8 +20,8 @@ anything here that you don't want to share with the world.)
 
 ## Warping 
 
-![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Warp.png)
+![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Warp.PNG)
 
 ## Webgl
 
-![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Webgl.png)
+![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Webgl.PNG)
