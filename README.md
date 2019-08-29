@@ -14,10 +14,14 @@ anything here that you don't want to share with the world.)
 
 ![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Part4.PNG)
 
-### Part 5 Submission
+## Part 5 Submission
+
 ![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Part5.PNG)
 
-### Warping 
+## Warping 
 
 ![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Warp.png)
-![alt text]((https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Webgl.png)
+
+## Webgl
+
+![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Webgl.png)
