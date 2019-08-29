@@ -4,7 +4,8 @@ Project 0 Getting Started
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
 * Eric Micallef
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
+  * https://www.linkedin.com/in/eric-micallef-99291714b/
+  
 * Tested on: Windows 10, i7-6700 @ 3.4GHz 16GB, Nvidia Quadro P1000 (Moore 100B Lab)
 
 Include screenshots, analysis, etc. (Remember, this is public, so don't put
