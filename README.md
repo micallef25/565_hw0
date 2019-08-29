@@ -24,4 +24,4 @@ anything here that you don't want to share with the world.)
 
 ## Webgl
 
-![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_Webgl.PNG)
+![alt text](https://raw.github.com/micallef25/565_hw0/master/images/Micallef_webgl.PNG)
